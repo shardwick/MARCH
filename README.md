@@ -3,4 +3,4 @@ MARCH
 
 March Math
 
-Timeline rules. 
+Timeline rules
