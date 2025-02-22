@@ -50,3 +50,31 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Build directories
+build/
+cmake-build-*/
+
+# Dependency directories
+vendor/
+lib/
+
+
+# IDE and editor files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*~
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Test files
+*.test
+
+# Configuration files
+*.conf
+*.cfg
