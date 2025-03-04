@@ -1,7 +1,7 @@
 # MARCH
 MARCH 
 
-March Math: Timeline rules,
+March Math: Timeline rules
 
 
 Human centered design focuses on people, understanding that everything is a complex system with interconnected parts. 
@@ -9,5 +9,5 @@ Estimations of the conditional probability of a complete sequence of classes len
 
 Hidden states of neuronal groups is an operator given a pool of classes. Here we provide a elegant way of dealing with time that embodies correlations between data points. 
 
-A basic RNN. 
+A basic RNN. LSTM> 
 
