@@ -1,7 +1,7 @@
 # MARCH
 MARCH 
 
-March Math: Timeline rules
+March Math: Timeline rules,
 
 
 Human centered design focuses on people, understanding that everything is a complex system with interconnected parts. 
