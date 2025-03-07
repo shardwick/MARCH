@@ -12,7 +12,11 @@ A basic RNN. LSTM
 ### LOADER 1: Local Optimum Afferent Decision Elasitc Returns
 
 Idempotence is cruscial to designing fault tolerant systems. 
-Systems engineering, in principle, is the edifice of constructing operational artifacts that instantiate data models into cohesive, platofrm agnostic moving elements on the page. 
+Systems engineering, in principle, is the edifice of constructing operational artifacts that instantiate data models into cohesive, platform agnostic moving elements on the page. 
 
-### Toxicity Analysis on Internal Flows 
+#### Toxicity Analysis on Internal Flows 
 Inference pipeline for deep learning.
+
+
+#### FLOPs 
+Scalability and matching performance on tasks. 
