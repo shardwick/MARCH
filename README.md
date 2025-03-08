@@ -10,7 +10,7 @@ Hidden states of neuronal groups is an operator given a pool of classes. Here we
 
 A basic RNN. LSTM. LM. 
 
-####################### TOOLS
+#####################################################################################################
 
 
 ### LOADER 1: Local Optimum Afferent Decision Elasitc Returns
