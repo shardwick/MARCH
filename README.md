@@ -1,4 +1,6 @@
-# MARCH
+# MARCH 
+A query engineer in a bottle
+
 MARCH: Timeline rules
 
 Human centered design focuses on people, understanding that everything is a complex system with interconnected parts. 
@@ -8,15 +10,23 @@ Hidden states of neuronal groups is an operator given a pool of classes. Here we
 
 A basic RNN. LSTM. LM. 
 
-#######################
+####################### TOOLS
+
+
 ### LOADER 1: Local Optimum Afferent Decision Elasitc Returns
 
 Idempotence is cruscial to designing fault tolerant systems. 
 Systems engineering, in principle, is the edifice of constructing operational artifacts that instantiate data models into cohesive, platform agnostic moving elements on the page. 
 
-#### Toxicity Analysis on Internal Flows 
+#### Features
+
+##### Conceptual & Logical Data Modeling
+
+Model Distillation. Lifecycle Engineering.  
+
+##### Toxicity Analysis on Internal Flows 
 Inference pipeline for deep learning.
 
 
-#### FLOPs 
+##### FLOPs 
 Scalability and matching performance on tasks. 
