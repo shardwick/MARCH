@@ -21,7 +21,7 @@ Systems engineering, in principle, is the edifice of constructing operational ar
 
 ##### Conceptual & Logical Data Modeling
 
-Model Distillation. Lifecycle Engineering.  
+Model Distillation. Design.  Lifecycle Engineering.  
 
 ##### Toxicity Analysis on Internal Flows 
 Inference pipeline for deep learning.
