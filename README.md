@@ -7,7 +7,8 @@ Estimations of the conditional probability of a complete sequence of classes len
 
 Hidden states of neuronal groups is an operator given a pool of classes. Here we provide a elegant way of dealing with time that embodies correlations between data points. 
 
-A basic RNN. LSTM. LM. 
+A basic RNN. LSTM.
+
 (A query engineer in a bottle)
 #####################################################################################################
 
