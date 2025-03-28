@@ -28,3 +28,6 @@ Inference pipeline for deep learning.
 
 ##### FLOPs 
 Scalability and matching performance on tasks. 
+
+
+##### Forward
