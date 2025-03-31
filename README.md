@@ -1,4 +1,4 @@
-# MARCH 
+# MARCH ( a pure mathematicians financier) 
 
 MARCH (a work in progress) |  Timeline rules: A Performance Based Manager 
 
