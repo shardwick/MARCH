@@ -1,33 +1,41 @@
 # MARCH 
 
-MARCH: Timeline rules
+MARCH (a work in progress) |  Timeline rules: A Performance Based Manager 
 
 Human centered design focuses on people, understanding that everything is a complex system with interconnected parts. 
+
+
+Here we provide a elegant way of dealing with time that embodies correlations between data points.
+
 Estimations of the conditional probability of a complete sequence of classes length T connects output vectors used to train networks under optimality criterion. 
 
-Hidden states of neuronal groups is an operator given a pool of classes. Here we provide a elegant way of dealing with time that embodies correlations between data points. 
+Hidden states of neuronal groups is an operator given a pool of classes.  
 
 
 #####################################################################################################
 
 
-### LOADER 1: Local Optimum Afferent Decision Elasitc Returns
+### LOADER 1: Local Optimum Afferent Decision Elastic/Static Returns
 
-Idempotence is cruscial to designing fault tolerant systems. 
-Systems engineering, in principle, is the edifice of constructing operational artifacts that instantiate data models into cohesive, platform agnostic moving elements on the page. 
+A new framework: Moving systems engineering.
+Idempotence is crucial to designing fault tolerant systems. 
+In principle,the edifice of constructing operational artifacts that instantiate data models into cohesive, platform agnostic  elements. 
 
 #### Features
+(forthcoming open vs.  ready and private) 
 
-##### Conceptual & Logical Data Modeling
-
+##### Conceptual & Logical Data Modeling Services
 Model Distillation. Design.  Lifecycle Engineering.  
 
-##### Toxicity Analysis on Internal Flows 
+##### Toxicity Analysis on Internal Flows (KYC) 
 Inference pipeline for deep learning.
 
 
-##### FLOPs 
+##### FLOPs (Standards)
 Scalability and matching performance on tasks. 
 
 
-##### Forward
+##### Foreword
+Control + Shift + Flow Toggle 
+
+Alternativly, escape. 
