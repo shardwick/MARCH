@@ -1,4 +1,4 @@
-# MARCH ( a pure mathematicians financier) 
+# MARCH
 
 MARCH (a work in progress) |  Timeline rules: A Performance Based Manager 
 
@@ -10,7 +10,7 @@ Here we provide a elegant way of dealing with time that embodies correlations be
 Estimations of the conditional probability of a complete sequence of classes length T connects output vectors used to train networks under optimality criterion. 
 
 Hidden states of neuronal groups is an operator given a pool of classes.  
-
+ (a pure mathematicians financier) 
 
 #####################################################################################################
 
