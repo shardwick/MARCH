@@ -37,5 +37,6 @@ Scalability and matching performance on tasks.
 
 ##### Foreword
 Control + Shift + Flow Toggle 
+SHARP
 
 Alternativly, escape. 
