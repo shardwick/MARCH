@@ -35,6 +35,10 @@ Inference pipeline for deep learning.
 Scalability and matching performance on tasks. 
 
 
+Auto Update 
+logit
+
+
 ##### Foreword
 Control + Shift + Flow Toggle 
 SHARP
