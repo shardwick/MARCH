@@ -44,4 +44,5 @@ Control + Shift + Flow Toggle
 SHARP
 
 Alternativly, escape. 
+
 Alternatives; ambidext.
