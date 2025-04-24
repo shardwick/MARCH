@@ -36,7 +36,7 @@ Scalability and matching performance on tasks.
 
 
 Auto Update 
-logit
+logit2
 
 
 ##### Foreword
